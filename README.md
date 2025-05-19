@@ -7,6 +7,8 @@ A smart, real-time barcode scanning system for Zebra TC72 that logs, visualizes,
 - 🔍 Scan barcodes with Zebra TC72 browser
 - 🌐 Send scans to a Flask server via HTTP POST
 - 💽 Save locally: `barcodes.txt` and `barcodes.db` (SQLite)
+- ![txt File](screenshots/barcodes-txt.png)
+- ![SQLite](screenshots/barcodes-db.png)
 - ☁️ Sync to Firebase Firestore for cloud storage
 - 📊 Real-time dashboard in any browser (HTML + Firebase)
 - 📧 Email alerts on every scan via SMTP
