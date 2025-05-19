@@ -9,16 +9,16 @@ A smart, real-time barcode scanning system for Zebra TC72 that logs, visualizes,
 - 💽 Save locally: `barcodes.txt` and `barcodes.db` (SQLite)
 
   ![TXT Log](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/barcodes-txt.png?raw=true "TXT Log")
-  ![SQLite DB](/screenshots/barcodes-db.png)
+  ![SQLite DB](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/barcodes-db.png?raw=true "SQLite DB")
 
 - ☁️ Sync to Firebase Firestore for cloud storage
 - 📊 Real-time dashboard in any browser (HTML + Firebase)
 
-  ![Dashboard](screenshots/dashboard-live.png)
+ ![Dashboard](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/dashboard-live.png?raw=true "Dashboard")
 
 - 📧 Email alerts on every scan via SMTP
 
-  ![Email Alert](screenshots/email-alert.png)
+  ![Email Alert](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/email-alert.png?raw=true "Email Alert")
 
 - 🔁 Auto-start on boot with `systemd`
 - 💡 Designed for AIDC, edge computing, and innovation labs
