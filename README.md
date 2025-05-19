@@ -5,6 +5,9 @@ A smart, real-time barcode scanning system for Zebra TC72 that logs, visualizes,
 ## ✅ Features
 
 - 🔍 Scan barcodes with Zebra TC72 browser
+
+  ![Scan Form TC72](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/scan-form-TC72.png?raw=true "Scan Form TC72")
+ 
 - 🌐 Send scans to a Flask server via HTTP POST
 - 💽 Save locally: `barcodes.txt` and `barcodes.db` (SQLite)
 
@@ -42,7 +45,7 @@ A smart, real-time barcode scanning system for Zebra TC72 that logs, visualizes,
     |
     +---> Real-time Dashboard (Firebase JS SDK)
 ```
-
+![System Architecture](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/architecture-diagram.png?raw=true "System Architecture")
 ---
 
 ## 💡 Use Cases
