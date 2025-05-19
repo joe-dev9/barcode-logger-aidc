@@ -8,6 +8,7 @@ A smart, real-time barcode scanning system for Zebra TC72 that logs, visualizes,
 - 🌐 Send scans to a Flask server via HTTP POST
 - 💽 Save locally: `barcodes.txt` and `barcodes.db` (SQLite)
 
+  ![TXT Log](screenshots/barcodes-txt.png)
   ![TXT Log](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/barcodes-txt.png?raw=true "TXT Log")
   ![SQLite DB](https://github.com/joe-dev9/barcode-logger-aidc/blob/main/barcodes-db.png?raw=true "SQLite DB")
 
